@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShtapelekShop/static/css/main.1c40821d.css",
+    "main.js": "/ShtapelekShop/static/js/main.b9799f05.js",
+    "index.html": "/ShtapelekShop/index.html",
+    "main.1c40821d.css.map": "/ShtapelekShop/static/css/main.1c40821d.css.map",
+    "main.b9799f05.js.map": "/ShtapelekShop/static/js/main.b9799f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c40821d.css",
+    "static/js/main.b9799f05.js"
+  ]
+}
